@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="verk_6.css">
+    <title>Verkefni 6</title>
+    
+    <script async src="https://unpkg.com/es-module-shims@1.6.3/dist/es-module-shims.js"></script>
+    <script type="importmap">
+        {
+            "imports": {
+                "three": "https://unpkg.com/three@v0.153.0/build/three.module.js", 
+                "three/addons/": "https://unpkg.com/three@v0.153.0/examples/jsm/"
+            }
+        }
+    </script>
+</head>
+<body>
+    <div id="heading">
+        <h1>Verkefni 6</h1>
+        <button id='webcamButton'>ENABLE WEBCAM</button>
+        <div id="myndavel">
+        <video width='240' height='200' id='webcam' autoplay></videos>
+        </div>
+    </div>
+    <script type="module" src="verk_6.js"></script>
+</body>
+</html>

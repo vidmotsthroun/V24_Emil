@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chunky knight
+* source:	https://sketchfab.com/3d-models/chunky-knight-f1722ab650ad4d8dbe6fc4bf44e33d38
+* author:	thanhtp (https://sketchfab.com/thanhtp)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chunky knight" (https://sketchfab.com/3d-models/chunky-knight-f1722ab650ad4d8dbe6fc4bf44e33d38) by thanhtp (https://sketchfab.com/thanhtp) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
