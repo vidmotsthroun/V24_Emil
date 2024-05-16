@@ -1,6 +1,6 @@
 # Lokaverkefni
 
-### Hugmind:
+### Hugmynd:
 Skanna 3D hlut og nota hendur til að hreyfa hann í gegnum völundarhús.
 
 ---
@@ -20,7 +20,7 @@ Skanna 3D hlut og nota hendur til að hreyfa hann í gegnum völundarhús.
 
 ---
 
-### Myndband og Myndir:
+### Myndband og myndir:
 
 tengill að myndbandi [hér](https://youtu.be/KQkNNsR2ggY)
 
